@@ -1,6 +1,6 @@
-## Home of the ItsYou.online product organization
+## Home of the Rivine product organization
 
-This repository is the starting point for people to find their way in all other repos in the Itsyou.online product organization.
+This repository is the starting point for people to find their way in all other repos in the Rivine product organization.
 
 - owner of this organization = Rob Van Mieghem
 - backup = Niko Vinken
