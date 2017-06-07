@@ -3,7 +3,7 @@
 This repository is the starting point for people to find their way in all other repos in the Rivine product organization.
 
 - owner of this organization = Rob Van Mieghem
-- backup = Niko Vinken
+- backup = 
 
 - [Kanban](https://waffle.io/rivine/home)
 
