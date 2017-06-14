@@ -10,6 +10,8 @@ This repository is the starting point for people to find their way in all other 
 
 Milestones:
 - [0.1.0](https://waffle.io/rivine/home?milestone=0.1)
+- [0.1.1](https://waffle.io/rivine/home?milestone=0.1.1)
+- [0.2.0](https://waffle.io/rivine/home?milestone=0.2.0)
 
 Code Repos:
 - [rivine](https://github.com/rivine/rivine)
