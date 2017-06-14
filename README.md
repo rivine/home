@@ -21,10 +21,9 @@ This repository is the starting point for people to find their way in all other 
 - [Kanban](https://waffle.io/rivine/home)
 
 
-Milestones:
-- [0.1.0](https://waffle.io/rivine/home?milestone=0.1)
-- [0.1.1](https://waffle.io/rivine/home?milestone=0.1.1)
-- [0.2.0](https://waffle.io/rivine/home?milestone=0.2.0)
+Upcoming milestones:
+- [0.1.1](https://waffle.io/rivine/home?milestone=0.1.1) - Bugfixes
+- [0.2.0](https://waffle.io/rivine/home?milestone=0.2.0) - KYC Compliancy
 
 Code Repos:
 - [rivine](https://github.com/rivine/rivine)
