@@ -9,6 +9,8 @@ The released binaries automatically connect to this public chain:
 
 Contact the rivine maintainers with a small motivation to acquire coins and/or blockstakes.
 
+The blockchain explorer is available at https://explorer.rivine.io
+
 ## Rivine product organization
 
 This repository is the starting point for people to find their way in all other repos in the Rivine product organization.
