@@ -1,13 +1,13 @@
 ## Getting started
 
-Even though Rivine is a toolkit for creating chain, it has it's own testnet running publicly.
+Even though Rivine is a toolkit for creating custom chains, it has it's own testnet running publicly.
 
 The released binaries automatically connect to this public chain: 
 
 - **Desktop**: Desktop reference wallet available at https://github.com/rivine/rivine-UI/releases
-- **Server**: rivine daemon and command line client available at https://github.com/rivine/rivine/releases
+- **Server**: Rivine daemon and command line client available at https://github.com/rivine/rivine/releases
 
-Contact the rivine maintainers to acquire coins and/or blockstakes with a small motivation 
+Contact the rivine maintainers with a small motivation to acquire coins and/or blockstakes.
 
 ## Rivine product organization
 
