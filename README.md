@@ -7,16 +7,24 @@ This repository is the starting point for people to find their way in all other 
   - [Glen De Cauwsemaecker](http://github.com/glendc)
 
 Upcoming milestones:
-- [1.0.4 kanban](https://waffle.io/rivine/home?milestone=1.0.4%20explorer%20graphs) Feature release (Release date: 03/05/2018)
-  - add graphs to threefold explorer web UI;
-  - investigate and resolve zero-os crashes;
-- [1.0.5 kanban](https://waffle.io/rivine/home?milestone=1.0.5%20timelocked%20tokens) Feature release (Release date: 10/05/2018)
+- [1.0.7 kanban](https://waffle.io/rivine/home?milestone=1.0.7%20wallet%20improvements) Feature release (Planned Release date: 20/06/2018)
+  - [Improved quality of Rivine codebase](https://docs.greenitglobe.com/gig/org_development/issues/76)
+  - [Rivine Wallet Improvements](https://docs.greenitglobe.com/gig/org_development/issues/74)
+  - [Ethereum Atomic Swap Support](https://docs.greenitglobe.com/gig/org_development/issues/75)
+
+Previous milestones:
+- 1.0.6: Feature release (Release date: 04/06/2018)
+  - fix bugs introduced to atomic swap CLI commands in 1.0.5
+  - improve UX of atomic swap CLI commands and align the API to the decred/atomicswap tools
+  - introduce multisig in the form of a new condition and fulfillment
+- 1.0.5: Feature release (Release date: 09/05/2018)
   - breaking release: new transaction version, deprecating the original transaction version as legacy;
   - breaking release: coin/blockstake output models have changed;
   - support time locked tokens;
   - improved explorer graphs;
-
-Previous milestones:
+- 1.0.4: Feature release (Release date: 03/05/2018)
+  - add graphs to threefold explorer web UI;
+  - investigate and resolve zero-os crashes;
 - 1.0.3: Bugfix release (Release date: 19/04/2018)
   - hard reset of standard (tfchain) net;
   - add feature to allow a wallet to be recovered from a seed/mnemonic;
