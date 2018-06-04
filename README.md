@@ -7,7 +7,7 @@ This repository is the starting point for people to find their way in all other 
   - [Glen De Cauwsemaecker](http://github.com/glendc)
 
 Upcoming milestones:
-- [1.0.7 kanban](https://waffle.io/rivine/home?milestone=1.0.7%20wallet%20improvements) Feature release (Planned Release date: 20/06/2018)
+- [1.0.7 kanban](https://waffle.io/rivine/home?milestone=1.0.7%20wallet%20improvements) Bugfix release (Planned Release date: 20/06/2018)
   - [Improved quality of Rivine codebase](https://docs.greenitglobe.com/gig/org_development/issues/76)
   - [Rivine Wallet Improvements](https://docs.greenitglobe.com/gig/org_development/issues/74)
   - [Ethereum Atomic Swap Support](https://docs.greenitglobe.com/gig/org_development/issues/75)
