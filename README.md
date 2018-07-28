@@ -6,7 +6,7 @@ This repository is the starting point for people to find their way in all other 
   - [Rob Van Mieghem](http://github.com/robvanmieghem)
   - [Glen De Cauwsemaecker](http://github.com/glendc)
 
-Upcoming milestones:
+## milestones:
 
 ### [1.0.9 kanban](https://waffle.io/rivine/home?milestone=1.0.8) tbd
 
