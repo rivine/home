@@ -16,7 +16,6 @@ tbd
 
 - creation of tokens based on sort of multisign principle
 - feature to run explorer to export all data to a redis store
-- reporting tools based on portal server in js9
 
 ### [1.0.7 kanban](https://waffle.io/rivine/home?milestone=1.0.7%20wallet%20improvements) end july
 
