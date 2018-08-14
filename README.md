@@ -10,6 +10,9 @@ This repository is the starting point for people to find their way in all other 
 
 ## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1) tbd
 
+- better container support:
+  - unencrypted wallets
+  - delegated staking
 - code/structure/repo cleanup
 - Wallet improvements
 
