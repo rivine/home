@@ -8,14 +8,24 @@ This repository is the starting point for people to find their way in all other 
 
 ## milestones:
 
-### [1.0.9 kanban](https://waffle.io/rivine/home?milestone=1.0.8) tbd
+## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1) tbd
 
-tbd
+- code/structure/repo cleanup
+- Wallet improvements
+
+## [1.1.0 kanban](https://waffle.io/rivine/home?milestone=1.1.0) week 20 aug
+
+- creation of tokens based on sort of multisign principle
+
+### [1.0.9 kanban](https://waffle.io/rivine/home?milestone=1.0.9) week 13 aug
+
+- Electrum module with support for address notifications
+- feature to run explorer to export all data to a redis store
 
 ### [1.0.8 kanban](https://waffle.io/rivine/home?milestone=1.0.8) week 1 aug
 
-- creation of tokens based on sort of multisign principle
-- feature to run explorer to export all data to a redis store
+- Improved multisig support in the explorer and for light clients
+
 
 ### [1.0.7 kanban](https://waffle.io/rivine/home?milestone=1.0.7%20wallet%20improvements) end july
 
