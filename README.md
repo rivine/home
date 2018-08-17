@@ -23,10 +23,9 @@ This repository is the starting point for people to find their way in all other 
 ## [1.1.0 kanban](https://waffle.io/rivine/home?milestone=1.1.0) week 13 aug
 
 - creation of tokens based on multisign 
-
-### [1.0.9 kanban](https://waffle.io/rivine/home?milestone=1.0.9) week 13 aug
-
 - feature to run explorer to export all data to a redis store
+- Small explorer improvements
+
 
 ### [1.0.8 kanban](https://waffle.io/rivine/home?milestone=1.0.8) week 1 aug
 
