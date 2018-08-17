@@ -20,7 +20,7 @@ This repository is the starting point for people to find their way in all other 
 - code/structure/repo cleanup
 - Wallet improvements
 
-## [1.1.0 kanban](https://waffle.io/rivine/home?milestone=1.1.0) week 20 aug
+## [1.1.0 kanban](https://waffle.io/rivine/home?milestone=1.1.0) week 13 aug
 
 - creation of tokens based on multisign 
 
