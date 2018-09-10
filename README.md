@@ -16,6 +16,7 @@ This repository is the starting point for people to find their way in all other 
 
 ## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1) tbd
 
+- Jumpscale client
 - Electrum module with support for address notifications
 - code/structure/repo cleanup
 - Wallet improvements
