@@ -8,8 +8,15 @@ This repository is the starting point for people to find their way in all other 
 
 ## milestones:
 
+##  [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2) tbd
+
+-  Full Electrum protocol 
+-  Zero-Db support for the storage 
+ 
+  
 ## [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2) tbd
 
+- Human Energy token
 - better container support:
   - unencrypted wallets
   - delegated staking
@@ -20,6 +27,7 @@ This repository is the starting point for people to find their way in all other 
 - Electrum module with support for address notifications
 - code/structure/repo cleanup
 - Wallet improvements
+- Improvements to the redis exporter
 
 ## [1.1.0 kanban](https://waffle.io/rivine/home?milestone=1.1.0) week 20 aug
 
