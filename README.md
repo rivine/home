@@ -20,6 +20,7 @@ This repository is the starting point for people to find their way in all other 
 - better container support:
   - unencrypted wallets
   - delegated staking
+- Review release process
 
 ## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1) tbd
 
