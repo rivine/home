@@ -10,8 +10,9 @@ This repository is the starting point for people to find their way in all other 
 
 ##  [1.1.3 kanban](https://waffle.io/rivine/home?milestone=1.1.3&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
 
--  Full Electrum protocol 
--  Zero-Db support for the storage 
+- Full Electrum protocol 
+- Zero-Db support for the storage
+- Change  explorer storage
  
   
 ## [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
