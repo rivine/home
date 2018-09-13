@@ -8,13 +8,13 @@ This repository is the starting point for people to find their way in all other 
 
 ## milestones:
 
-##  [1.1.3 kanban](https://waffle.io/rivine/home?milestone=1.1.3) tbd
+##  [1.1.3 kanban](https://waffle.io/rivine/home?milestone=1.1.3&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
 
 -  Full Electrum protocol 
 -  Zero-Db support for the storage 
  
   
-## [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2) tbd
+## [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
 
 - Human Energy token
 - better container support:
@@ -24,7 +24,7 @@ This repository is the starting point for people to find their way in all other 
   - who can deploy 
   - take ownership over js9/zero-os deployment scripts
 
-## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1) tbd
+## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
 
 - Jumpscale client
 - Electrum module with support for address notifications
