@@ -8,7 +8,7 @@ This repository is the starting point for people to find their way in all other 
 
 ## milestones:
 
-##  [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2) tbd
+##  [1.1.3 kanban](https://waffle.io/rivine/home?milestone=1.1.3) tbd
 
 -  Full Electrum protocol 
 -  Zero-Db support for the storage 
@@ -21,6 +21,8 @@ This repository is the starting point for people to find their way in all other 
   - unencrypted wallets
   - delegated staking
 - Review release process
+  - who can deploy 
+  - take ownership over js9/zero-os deployment scripts
 
 ## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1) tbd
 
