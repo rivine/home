@@ -30,9 +30,10 @@ This repository is the starting point for people to find their way in all other 
 
 - Jumpscale client
 - Electrum module with support for address notifications
-- code/structure/repo cleanup
 - Wallet improvements
 - Improvements to the redis exporter
+- Bugfixes
+  - transaction repropagation
 
 ## [1.1.0 kanban](https://waffle.io/rivine/home?milestone=1.1.0) week 20 aug
 
