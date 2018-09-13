@@ -24,8 +24,9 @@ This repository is the starting point for people to find their way in all other 
 - Review release process
   - who can deploy 
   - take ownership over js9/zero-os deployment scripts
+- code/structure/repo cleanup
 
-## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
+## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) 
 
 - Jumpscale client
 - Electrum module with support for address notifications
