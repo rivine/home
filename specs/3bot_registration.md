@@ -35,7 +35,7 @@
 - Update information
    - following info can be changed
      - new name registration
-     - remove name (unregisration, there needs to be at least 1 left)
+     - remove name (unregistration, there needs to be at least 1 left)
      - ipaddress info
      - validity period
      - active (yes or not)
