@@ -39,6 +39,7 @@
      - ipaddress info
      - validity period
      - active (yes or not)
+     - public key
    - info can only be changed (updated) by user who has the private key of the already registered info
 - Ability to query  this information 
   - through  the explorers  and light clients 
