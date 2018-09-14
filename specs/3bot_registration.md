@@ -32,6 +32,7 @@
    - validity period (epoch)
    - active (Bool)
    - public key
+   - signature of info in this record 
 - Update information
    - following info can be changed
      - new name registration
