@@ -17,8 +17,12 @@
 - public key change = 20 TFT
 - deletion = free
 
-30% discount if year payment
-50% discount if 2 year payment
+other remarks
+
+- 30% discount if year payment
+- 50% discount if 2 year payment
+- min = 1 month, 30 days
+- month = 30 days, year = 365 days
 
 ## definitions
 
@@ -28,20 +32,15 @@
 
 - Possibility to register 3bot
    - unique id (int, incremental, given by blockchain)
-   - tft Address
    - list of names: 5char.5char (like dns, min 5 char per part)
    - list of ip addresses: ipv6/4
-   - validity period (epoch) (goes together with payment term)
+   - nrmonths
    - public key
-   - signature of info in this record 
+   - signature of info in this record
 - Update information
    - following info can be changed
-     - new name registration
-     - remove name (unregistration, there needs to be at least 1 left)
      - ipaddress info
-     - validity period
-     - active (yes or not)
-     - public key
+     - name changes
    - info can only be changed (updated) by user who has the private key of the already registered info
 - Ability to query  this information 
   - through  the explorers  and light clients 
