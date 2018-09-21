@@ -16,7 +16,9 @@
 - ip address info change = 20 TFT
 - public key change = 20 TFT
 - deletion = free
-- price can be adjusted if at least 2 of the 3 multisig founders agree
+
+30% discount if year payment
+50% discount if 2 year payment
 
 ## definitions
 
@@ -29,8 +31,7 @@
    - tft Address
    - list of names: 5char.5char (like dns, min 5 char per part)
    - list of ip addresses: ipv6/4
-   - validity period (epoch)
-   - active (Bool)
+   - validity period (epoch) (goes together with payment term)
    - public key
    - signature of info in this record 
 - Update information
