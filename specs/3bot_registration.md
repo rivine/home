@@ -12,9 +12,8 @@
 - registration of a new 3bot = 100 TFT
 - monthly fee per 3bot = 10 TFT
 - deletion of name = free
-- alias name to a 3bot = 50 TFT
+- add a name = 50 TFT
 - ip address info change = 20 TFT
-- public key change = 20 TFT
 - deletion = free
 
 other remarks
