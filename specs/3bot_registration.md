@@ -15,6 +15,7 @@
 - add a name = 50 TFT
 - ip address info change = 20 TFT
 - deletion = free
+- updating nr of months = product of monthly fees and nr of months
 
 other remarks
 
@@ -32,7 +33,7 @@ other remarks
 - Possibility to register 3bot
    - unique id (int, incremental, given by blockchain)
    - list of names: 5char.5char (like dns, min 5 char per part)
-   - list of ip addresses: ipv6/4
+   - list of network addresses: ipv6/4 as well as host name(s)
    - nrmonths
    - public key
    - signature of info in this record
