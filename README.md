@@ -28,6 +28,7 @@ This repository is the starting point for people to find their way in all other 
 ## [1.1.2 kanban](https://waffle.io/rivine/home?milestone=1.1.2&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) tbd
 
 - 3bot support
+- Farmer registration 
 - Ethereum erc20 tokens and bridge
 
 ## [1.1.1 kanban](https://waffle.io/rivine/home?milestone=1.1.1&source=rivine%2Fatomicswap,rivine%2Fexplorer,rivine%2Fhome,rivine%2Frivine,threefoldfoundation%2Ftfchain,rivine%2Frivine-UI) 
